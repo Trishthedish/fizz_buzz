@@ -1,3 +1,3 @@
-module FizzBuzz
-  
+module Fizzbuzz
+
 end
